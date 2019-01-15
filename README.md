@@ -23,7 +23,11 @@ The model generates reasonably realistic images of diverse faces with various fe
 
 # References
 1. Original DCGAN Paper
-> I. J. Goodfellow, et al. [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf).  In Proceedings of NIPS, pages 2672–
+> I. J. Goodfellow, et al. [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf). In Proceedings of NIPS, pages 2672–
 2680, 2014.
 
-2. [GAN Disadvantages and Tips to Help](https://github.com/tensorflow/magenta/blob/master/magenta/reviews/GAN.md#disadvantages)
+2. Unsupervised Representational Learning with DCGANs
+
+> A. Radford, L. Metz, S. Chintala, [Unsupervised representation learning with deep convolutional generative adversarial networks](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), 2015.
+
+3. [GAN Disadvantages and Tips to Help](https://github.com/tensorflow/magenta/blob/master/magenta/reviews/GAN.md#disadvantages)
